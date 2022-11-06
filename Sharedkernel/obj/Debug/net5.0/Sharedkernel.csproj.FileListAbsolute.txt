@@ -1,0 +1,12 @@
+D:\Cursos\netCore\Solution.SystemSales\Sharedkernel\bin\Debug\net5.0\Sharedkernel.deps.json
+D:\Cursos\netCore\Solution.SystemSales\Sharedkernel\bin\Debug\net5.0\Sharedkernel.dll
+D:\Cursos\netCore\Solution.SystemSales\Sharedkernel\bin\Debug\net5.0\Sharedkernel.pdb
+D:\Cursos\netCore\Solution.SystemSales\Sharedkernel\obj\Debug\net5.0\Sharedkernel.csproj.AssemblyReference.cache
+D:\Cursos\netCore\Solution.SystemSales\Sharedkernel\obj\Debug\net5.0\Sharedkernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\netCore\Solution.SystemSales\Sharedkernel\obj\Debug\net5.0\Sharedkernel.AssemblyInfoInputs.cache
+D:\Cursos\netCore\Solution.SystemSales\Sharedkernel\obj\Debug\net5.0\Sharedkernel.AssemblyInfo.cs
+D:\Cursos\netCore\Solution.SystemSales\Sharedkernel\obj\Debug\net5.0\Sharedkernel.csproj.CoreCompileInputs.cache
+D:\Cursos\netCore\Solution.SystemSales\Sharedkernel\obj\Debug\net5.0\Sharedkernel.dll
+D:\Cursos\netCore\Solution.SystemSales\Sharedkernel\obj\Debug\net5.0\refint\Sharedkernel.dll
+D:\Cursos\netCore\Solution.SystemSales\Sharedkernel\obj\Debug\net5.0\Sharedkernel.pdb
+D:\Cursos\netCore\Solution.SystemSales\Sharedkernel\obj\Debug\net5.0\ref\Sharedkernel.dll

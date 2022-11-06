@@ -1,0 +1,12 @@
+D:\Cursos\netCore\Solution.SystemSales\System.Product.Application\bin\Debug\net5.0\System.Product.Application.deps.json
+D:\Cursos\netCore\Solution.SystemSales\System.Product.Application\bin\Debug\net5.0\System.Product.Application.dll
+D:\Cursos\netCore\Solution.SystemSales\System.Product.Application\bin\Debug\net5.0\System.Product.Application.pdb
+D:\Cursos\netCore\Solution.SystemSales\System.Product.Application\obj\Debug\net5.0\System.Product.Application.csproj.AssemblyReference.cache
+D:\Cursos\netCore\Solution.SystemSales\System.Product.Application\obj\Debug\net5.0\System.Product.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\netCore\Solution.SystemSales\System.Product.Application\obj\Debug\net5.0\System.Product.Application.AssemblyInfoInputs.cache
+D:\Cursos\netCore\Solution.SystemSales\System.Product.Application\obj\Debug\net5.0\System.Product.Application.AssemblyInfo.cs
+D:\Cursos\netCore\Solution.SystemSales\System.Product.Application\obj\Debug\net5.0\System.Product.Application.csproj.CoreCompileInputs.cache
+D:\Cursos\netCore\Solution.SystemSales\System.Product.Application\obj\Debug\net5.0\System.Product.Application.dll
+D:\Cursos\netCore\Solution.SystemSales\System.Product.Application\obj\Debug\net5.0\refint\System.Product.Application.dll
+D:\Cursos\netCore\Solution.SystemSales\System.Product.Application\obj\Debug\net5.0\System.Product.Application.pdb
+D:\Cursos\netCore\Solution.SystemSales\System.Product.Application\obj\Debug\net5.0\ref\System.Product.Application.dll

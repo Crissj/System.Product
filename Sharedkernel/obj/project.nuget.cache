@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vDX1VTENXcfiBdp6rdh5wnbC/YNXs+Kj1TLR1CIr+voMc4enPnDvnM7N1Ba7kYNt1cfurPhhZnYIzHOrWFGoIA==",
+  "success": true,
+  "projectFilePath": "D:\\Cursos\\netCore\\Solution.SystemSales\\Sharedkernel\\Sharedkernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cmeri\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\cmeri\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
